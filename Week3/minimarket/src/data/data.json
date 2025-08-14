@@ -1,0 +1,47 @@
+[
+  {
+    "id": "drinks",
+    "name": "Gaseosa Pepsi",
+    "price": 3.5,
+    "category": "Bebidas",
+    "image": "/images/drinks.png",
+    "inStock": true,
+    "unit": "botella"
+  },
+  {
+    "id": "snacks",
+    "name": "Papa Lay Clásico",
+    "price": 4.9,
+    "category": "Snacks",
+    "image": "/images/snacks.png",
+    "inStock": true,
+    "unit": "bolsa"
+  },
+  {
+    "id": "candies",
+    "name": "Gomitas Frutales",
+    "price": 2.9,
+    "category": "Dulces",
+    "image": "/images/candies.png",
+    "inStock": true,
+    "unit": "bolsa"
+  },
+  {
+    "id": "cookies",
+    "name": "Galleta Oreo",
+    "price": 3.2,
+    "category": "Galletas",
+    "image": "/images/cookies.png",
+    "inStock": true,
+    "unit": "paquete"
+  },
+  {
+    "id": "water",
+    "name": "Agua Mineral",
+    "price": 2.0,
+    "category": "Bebidas",
+    "image": "/images/water.png",
+    "inStock": true,
+    "unit": "botella"
+  }
+]
