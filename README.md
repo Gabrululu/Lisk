@@ -1,2 +1,2 @@
 # Lisk
-Bootcamp sobre Lisk
+Bootcamp sobre Lisk brindado por Dev3Pack
